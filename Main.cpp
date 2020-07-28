@@ -22,7 +22,7 @@ int main() {
 
 	int number;
 
-	cout << "Enter your student id: 0";
+	cout << "Enter a string of number (>6 digits): ";
 	cin >> number;
 	
 	int id[6] { 0 };
