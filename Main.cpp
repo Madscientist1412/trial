@@ -7,7 +7,7 @@ using namespace std;
 int main() {
 	Stack stack1;
 	
-	int num[]{ 1,2,3,4,4,3,2,1 };
+	int num[]{ 1,2,3,4,3,2,1 };
 	int size1 = sizeof(num) / sizeof(num[0]);
 
 	for (int n = 0; n < size1; n++)
